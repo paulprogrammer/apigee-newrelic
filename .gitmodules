@@ -1,3 +1,6 @@
 [submodule "journaldev-spring-mvc-example"]
 	path = journaldev-spring-mvc-example
 	url = git@github.com:paulprogrammer/journaldev-spring-mvc-example.git
+[submodule "apigee-dt-frontend"]
+	path = apigee-dt-frontend
+	url = git@github.com:danstadler-newrelic/apigee-dt-frontend.git
